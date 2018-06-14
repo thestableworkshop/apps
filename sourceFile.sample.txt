@@ -1,0 +1,6 @@
+app apps   = Construction apps on android
+  maximages = 6
+  icon      = https://avatars3.githubusercontent.com/u/40273712?v=4
+  author    = thestableworkshop
+  email     = 40273712+thestableworkshop@users.noreply.github.com
+
